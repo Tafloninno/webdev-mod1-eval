@@ -184,7 +184,6 @@ hr {
 	.container{
 		display: flex;
 		flex-direction: row;
-		max-width: 1200px;
 		gap: 20px;
 		padding: 20px;
 	}
